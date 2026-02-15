@@ -63,9 +63,9 @@ real-time data synchronization, and robust security protocols.
 ## Screenshots
 
 <p float="left" align="center">
-  <img src="screenshots/SignUp_screen.jpeg" width="300" /> 
-  <img src="screenshots/Login_Screen.jpeg" width="300" />
-  <img src="screenshots/DashBoard_screen.jpeg" width="300" /> 
+  <img src="screenshot/SignUp_screen.jpeg" width="300" /> 
+  <img src="screenshot/Login_Screen.jpeg" width="300" />
+  <img src="screenshot/DashBoard_screen.jpeg" width="300" /> 
 </p>
 
 ## 🏗️ Architecture
